@@ -5,7 +5,7 @@
 <p> I'm a Moroccan full-stack developer and Graphic Designer. </p>
 <p> All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
 
-*` On my repos i share projects/ Tutorials/ Homeworks Codes. `*
+*` On my repos i share projects & Tutorials Codes for all my visitors.`*
 
 
 
