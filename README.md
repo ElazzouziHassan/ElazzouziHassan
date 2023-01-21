@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm El azzouzi Hassan (Wizardy)</h1>
+<h1>Hi 👋, I'm El azzouzi Hassan (Wizardy) </h1>
 
 **`FULL STACK DEVELOPER & UI/UX DESIGNER`**
 
@@ -35,6 +35,8 @@
 <a href="https://instagram.com/therealwizardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealwizardy" height="30" width="40" /></a>
 <a href="https://dribbble.com/therealwizart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="therealwizart" height="30" width="40" /></a>
 </p>
+
+<h1> <img src="https://readme-typing-svg.herokuapp.com?lines=Let's+follow+each+other+💖" /> </h1>
 
 
 
