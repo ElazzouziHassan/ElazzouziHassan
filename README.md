@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm El azzouzi Hassan (Wizardy) </h1>
 
-**`FULL STACK DEVELOPER & UI/UX DESIGNER`**
+**`FULL STACK DEVELOPER & UI/UX DESIGNER` - :mage_man:**
 
 <p> I'm a Moroccan full-stack developer and Graphic Designer. </p>
 <p> All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
