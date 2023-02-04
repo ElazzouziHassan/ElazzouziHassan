@@ -18,8 +18,7 @@
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&layout=compact&show_icons=true&theme=algolia&border_radius=20"/> -->
 
 <!-- <img  width="47%" src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20"/> -->
-
- </br> </br> 
+ </br>
 <h3 align="left">GitHub Streak :</h3>
 
 <img width="47%" src="https://streak-stats.demolab.com?user=ElazzouziHassan&theme=dark&border_radius=5&background=24135A&sideNums=7F827A&border=DD2727&stroke=DD2727&currStreakNum=E7FF96&ring=7F20FD&fire=B0BA1E&currStreakLabel=FDFDFD"/>
