@@ -2,7 +2,7 @@
 
 **`FULL STACK DEVELOPER & UI/UX DESIGNER` - :mage_man:**
 
-<!-- <p> All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p> -->
+<p> All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
 
 *` On my repositories i share projects code source & Tutorials for all my visitors. Be free to use anything you need.`*
 
