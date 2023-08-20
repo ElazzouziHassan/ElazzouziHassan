@@ -4,9 +4,6 @@
 
 *` On my repositories i share projects code source & Tutorials for all my visitors. Be free to use anything you need.`*
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ElazzouziHassan&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
 
 <h1>💻 Tech Stack : </h1>
 
@@ -19,14 +16,14 @@
 
 <h3 align="left">GitHub Stats :</h3>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&layout=compact&show_icons=true&theme=algolia&border_radius=20"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20"/>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true"/>
 
- </br>  </br>  </br>
+ </br>  </br>
 <h3 align="left">GitHub Streak :</h3>
 
-<img width="47%" src="https://streak-stats.demolab.com?user=ElazzouziHassan&theme=dark&border_radius=5&background=24135A&sideNums=7F827A&border=DD2727&stroke=DD2727&currStreakNum=E7FF96&ring=7F20FD&fire=B0BA1E&currStreakLabel=FDFDFD"/>
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=solarized-dark&hide_border=false"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmewizardy) 
@@ -35,10 +32,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy) 
 <h1> <img src="https://readme-typing-svg.herokuapp.com?lines=Let's+follow+each+other+💖" /> </h1>
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ElazzouziHassan&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ezhassanind"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ezhassanind" /></a></p><br><br>
