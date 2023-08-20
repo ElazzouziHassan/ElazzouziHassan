@@ -2,10 +2,10 @@
 
 **`FULL STACK DEVELOPER & UI/UX DESIGNER` - :mage_man:**
 
-<p> All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
-
 *` On my repositories i share projects code source & Tutorials for all my visitors. Be free to use anything you need.`*
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ElazzouziHassan&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 
 <h1>💻 Tech Stack : </h1>
@@ -28,17 +28,15 @@
 
 <img width="47%" src="https://streak-stats.demolab.com?user=ElazzouziHassan&theme=dark&border_radius=5&background=24135A&sideNums=7F827A&border=DD2727&stroke=DD2727&currStreakNum=E7FF96&ring=7F20FD&fire=B0BA1E&currStreakLabel=FDFDFD"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://fb.com/itsmewizardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsmewizardy" height="30" width="40" /></a>
-<a href="https://instagram.com/therealwizardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealwizardy" height="30" width="40" /></a>
-<a href="https://twitter.com/itsmewizardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmewizardy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wizardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wizardy" height="30" width="40" /></a>
-
-
-</p>
-
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmewizardy) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealwizardy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elazzouzihassan) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy) 
 <h1> <img src="https://readme-typing-svg.herokuapp.com?lines=Let's+follow+each+other+💖" /> </h1>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
 
