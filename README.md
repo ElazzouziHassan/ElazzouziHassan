@@ -33,7 +33,7 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Let's+follow+each+other+💖" />
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## 🏆 GitHub Trophies
