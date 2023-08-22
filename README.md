@@ -1,9 +1,10 @@
-<h1>Hi 👋, I'm El azzouzi Hassan (Wizardy)</h1>
+<h1> EL AZZOUZI HASSAN ( WIZARDY ) </h1> 
 
-**`FULL STACK DEVELOPER & UI/UX DESIGNER` - :mage_man:**
+**`FULL-STACK WEB DEVELOPER | LARAVEL, MERN STACK, NEXT.JS, MySQL` - :mage_man:**
 
 *` On my repositories i share projects code source & Tutorials for all my visitors. Be free to use anything you need.`*
 
+![](https://komarev.com/ghpvc/?username=your-github-ElazzouziHassan&color=blueviolet&style=for-the-badge)
 
 <h1>💻 Tech Stack : </h1>
 
@@ -39,6 +40,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ElazzouziHassan&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Support:</h3>
+## 💵 Support :
 <p><a href="https://www.buymeacoffee.com/ezhassanind"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ezhassanind" /></a></p><br><br>
+
+ 
 
