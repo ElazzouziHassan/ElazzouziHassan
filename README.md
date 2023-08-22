@@ -30,7 +30,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealwizardy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elazzouzihassan) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy) 
-<h1> <img src="https://readme-typing-svg.herokuapp.com?lines=Let's+follow+each+other+💖" /> </h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Let's+follow+each+other+💖" />
 
 
 ### ✍️ Random Dev Quote
