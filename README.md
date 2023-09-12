@@ -27,3 +27,10 @@ Join me on this epic journey through the digital universe as we uncover hidden g
 </div>
 
 ###
+
+### 📊 GITHUB STREAKS:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=radical&hide_border=false)<br/>
+
+### ✍️ DEV QUOTE:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
