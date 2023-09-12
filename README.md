@@ -1,4 +1,4 @@
-<h1> EL AZZOUZI HASSAN ( WIZARDY ) </h1> 
+<!-- <h1> EL AZZOUZI HASSAN ( WIZARDY ) </h1> 
 
 **`FULL-STACK WEB DEVELOPER | LARAVEL, MERN STACK, NEXT.JS, MySQL` - :mage_man:**
 
@@ -59,9 +59,8 @@
 
 <div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?ElazzouziHassan=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
