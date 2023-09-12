@@ -1,5 +1,10 @@
-<h1> EL AZZOUZI HASSAN ( WIZARDY ) </h1> 
+<h1 align="center">
+  
+  `Elazzouzi Hassan (Wizardy - 🧙‍♂️) `
+  
+</h1>
+<h3 align="center">
+  
+**💻 `FULL-STACK WEB DEVELOPER | LARAVEL, MERN STACK, NEXT.JS, MySQL` - 🚀**
 
-**`FULL-STACK WEB DEVELOPER | LARAVEL, MERN STACK, NEXT.JS, MySQL` - :mage_man:**
-
-*` On my repositories i share projects code source & Tutorials for all my visitors. Be free to use anything you need.`*
+</h3>
