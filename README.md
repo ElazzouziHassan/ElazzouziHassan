@@ -51,6 +51,11 @@ Join me on this epic journey through the digital universe as we uncover hidden g
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElazzouziHassan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="github straks"  />
 </div>
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ElazzouziHassan&theme=onedark&column=-1" />
+</p>
+
+
 ###
 
 #
