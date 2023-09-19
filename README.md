@@ -46,7 +46,7 @@ Join me on this epic journey through the digital universe as we uncover hidden g
 ###
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="120" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="120" alt="stats graph"  /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green&hide_border=false" height="120" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="120" alt="github straks"  />
 </div>
