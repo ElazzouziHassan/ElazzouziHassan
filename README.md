@@ -75,7 +75,7 @@ Hey there, Welcome to my GitHub Profile 👋
 <div align="center">
 
   <p>
-  ✍️ RANDOM DEV QUOTE
+    RANDOM DEV QUOTE
   </p>
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
