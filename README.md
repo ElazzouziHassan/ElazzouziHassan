@@ -6,7 +6,7 @@
 
 Hey there, Welcome to my GitHub Profile 👋 
 
-Join me on this epic journey through the digital universe as we uncover hidden galaxies of innovation and traverse the constellations of creativity.
+**Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
 
 <!-- ### 💡 TECHNOLOGIES I HARNESS  -->
 
