@@ -1,8 +1,4 @@
-<h1>
-  
-  `Elazzouzi Hassan (Wizardy - 🧙‍♂️) `
-  
-</h1>
+# `Elazzouzi Hassan (Wizardy - 🧙‍♂️) `
 
 Hey there, Welcome to my GitHub Profile 👋 
 
