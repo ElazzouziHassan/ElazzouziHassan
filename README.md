@@ -38,7 +38,7 @@ Hey there, Welcome to my GitHub Profile 👋
 </tr>
 </table>
 
-
+<!-- 
 ###
 
 <div align='center'>
@@ -51,7 +51,7 @@ Hey there, Welcome to my GitHub Profile 👋
   <img alig src="https://github-profile-trophy.vercel.app/?username=ElazzouziHassan&theme=matrix&column=-1" />
 </p>
 
-###
+### -->
 
 #
 <p align="center">
