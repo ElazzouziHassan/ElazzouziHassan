@@ -47,7 +47,7 @@ Hey there, Welcome to my GitHub Profile 👋
 </div>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ElazzouziHassan&theme=matrix&no-frame=false&no-bg=false&margin-w=4" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ElazzouziHassan&theme=matrix&no-frame=false&no-bg=false&margin-w=-1" />
 </p>
 
 ###
