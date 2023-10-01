@@ -46,9 +46,9 @@ Hey there, Welcome to my GitHub Profile 👋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="languages graph"  />
 </div>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ElazzouziHassan&theme=matrix&no-frame=false&no-bg=false&margin-w=-1" />
-</p>
+<!-- <p align="center">
+  <img alig src="" />
+</p> -->
 
 ###
 
