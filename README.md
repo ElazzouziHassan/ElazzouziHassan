@@ -67,11 +67,9 @@ Hey there, Welcome to my GitHub Profile 👋
 <!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Feel+free+to+connect+with+me+💖" /> -->
 <!-- </div> -->
 
----
+<!-- --- -->
 
-<img src="https://raw.githubusercontent.com/ElazzouziHassan/ElazzouziHassan/output/snake.svg" alt="Snake animation" />
 
-###
 
 <!-- <div align="center">
 
