@@ -65,9 +65,9 @@ Hey there, Welcome to my GitHub Profile 👋
 <!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Feel+free+to+connect+with+me+💖" /> -->
 </div>
 
-<!-- --- -->
+---
 
-<!-- <div align="center">
+<div align="center">
 
   <p>
     RANDOM DEV QUOTE
@@ -75,10 +75,10 @@ Hey there, Welcome to my GitHub Profile 👋
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</div> -->
+</div>
 
-<!-- <div align='center'>
+<div align='center'>
 
 [![](https://visitcount.itsvg.in/api?id=ElazzouziHassan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div> -->
+</div>
