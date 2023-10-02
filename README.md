@@ -43,36 +43,36 @@ Hey there, Welcome to my GitHub Profile 👋
 
 ###
 
-<!-- <div align='center'>
+<div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green&hide_border=false' height='120' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="languages graph"  />
-</div> -->
+</div> 
 
-<!-- <p align="center">
+<p align="center">
   <img alig src="" />
-</p> -->
+</p>
 
-<!-- ### -->
+###
 
-<!-- # -->
-<!-- <p align="center">
+#
+<p align="center">
 🌐 SOCIAL NETWORKS
 </p>
-<div align='center'> -->
-<!-- 
+<div align='center'>
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmewizardy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealwizardy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elazzouzihassan) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy)  -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy)  
 <!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Feel+free+to+connect+with+me+💖" /> -->
-<!-- </div> -->
+</div>
 
-<!-- --- -->
+---
 
 
 
-<!-- <div align="center">
+<div align="center">
 
   <p>
     RANDOM DEV QUOTE
@@ -80,7 +80,7 @@ Hey there, Welcome to my GitHub Profile 👋
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</div> -->
+</div>
 
 <!-- <div align='center'>
 
