@@ -40,9 +40,8 @@ Hey there, Welcome to my GitHub Profile 👋
 </tr>
 </table> 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
-</p>
 <div align='center'>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElazzouziHassan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" height="120" alt="stats graph"  />
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green&hide_border=false' height='120' />
