@@ -5,11 +5,6 @@ Hey there, Welcome to my GitHub Profile 👋
 **Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
-</p>
-
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
@@ -45,12 +40,9 @@ Hey there, Welcome to my GitHub Profile 👋
 </table> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
-
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
+</p>
 <div align='center'>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElazzouziHassan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" height="120" alt="stats graph"  />
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green&hide_border=false' height='120' />
