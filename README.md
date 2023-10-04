@@ -3,7 +3,8 @@
 Hey there, Welcome to my GitHub Profile 👋 
 
 **Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
-
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <table width="960px">
 <tr>
@@ -40,8 +41,7 @@ Hey there, Welcome to my GitHub Profile 👋
 </table> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
+
 </p>
 <div align='center'>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElazzouziHassan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" height="120" alt="stats graph"  />
