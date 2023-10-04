@@ -8,9 +8,7 @@ Hey there, Welcome to my GitHub Profile 👋
 
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-</p>
+
 
 <div align='center'>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElazzouziHassan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" height="120" alt="stats graph"  />
