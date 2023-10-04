@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
-</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 # `Elazzouzi Hassan (Wizardy - 🧙‍♂️) `
 
 Hey there, Welcome to my GitHub Profile 👋 
