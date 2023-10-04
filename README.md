@@ -1,15 +1,11 @@
 # `Elazzouzi Hassan (Wizardy - 🧙‍♂️) `
 
-Hey there, Welcome to my GitHub Profile 👋 
+Hey there, Welcome to my GitHub Profile 👋 <p>
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 **Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
 
 <div align="center">
-
-<p align="left">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
-
-<p align="right">  
 
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -32,7 +28,6 @@ Hey there, Welcome to my GitHub Profile 👋
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-</p>
   
 </div>
 
