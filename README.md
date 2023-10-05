@@ -36,3 +36,12 @@ Hey there, Welcome to my GitHub Profile 👋
 <img src="https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white">
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align='center'>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElazzouziHassan&theme=blue_green" height="120" alt="stats graph"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElazzouziHassan&theme=blue_green" height='120' />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElazzouziHassan&theme=blue_green" height="120" alt="languages graph"  />
+</div> 
