@@ -3,7 +3,7 @@
 Hey there, Welcome to my GitHub Profile 👋 
 
 **Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
-# 💡 TECHNOLOGIES I HARNESS  <img src = "https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width = 25px height=26px>
+<h2 align="left">💡 TECHNOLOGIES I HARNESS <img src = "https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width = 25px height=26px> </h2>
 
 <div>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white">
@@ -46,5 +46,5 @@ Hey there, Welcome to my GitHub Profile 👋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="languages graph"  />
 </div>
 
-<h2 align="left">⚡Activity Graph:</h2>
+<h2 align="left">⚡ACTIVITY GRAPH </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/>
