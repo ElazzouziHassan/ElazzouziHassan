@@ -25,6 +25,9 @@ Hey there, Welcome to my GitHub Profile 👋
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white">
+<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black">
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens">
