@@ -41,21 +41,10 @@ Hey there, Welcome to my GitHub Profile 👋
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align='center'>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green" height='120' />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="languages graph"  />
+</div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElazzouziHassan&theme=blue_green" height="170"/>
-
-</div> 
-
-<div align='center'>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElazzouziHassan&theme=blue_green" height="120"/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElazzouziHassan&theme=blue_green" height='120' />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElazzouziHassan&theme=blue_green" height="120"/>
-
-</div> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/>
