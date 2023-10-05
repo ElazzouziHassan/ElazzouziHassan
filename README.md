@@ -3,7 +3,7 @@
 Hey there, Welcome to my GitHub Profile 👋 
 
 **Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
-# 💡 TECHNOLOGIES I HARNESS  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 20px height=20px>
+# 💡 TECHNOLOGIES I HARNESS  <img src = "https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width = 25px height=26px>
 
 <div>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white">
