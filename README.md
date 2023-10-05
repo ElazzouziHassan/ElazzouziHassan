@@ -34,7 +34,10 @@ Hey there, Welcome to my GitHub Profile 👋
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white">
