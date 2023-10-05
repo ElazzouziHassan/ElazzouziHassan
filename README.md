@@ -45,7 +45,7 @@ Hey there, Welcome to my GitHub Profile 👋
 
 <div align='center'>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElazzouziHassan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" height="120" alt="stats graph"  />
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green&hide_border=false' height='120' />
+<img src='https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif' height='120' />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElazzouziHassan&layout=compact&langs_count=8&theme=blue-green" height="120" alt="languages graph"  />
 </div> 
 
