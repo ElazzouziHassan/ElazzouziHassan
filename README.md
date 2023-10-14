@@ -68,3 +68,23 @@ Hey there, Welcome to my GitHub Profile 👋
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy)  
 <!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Feel+free+to+connect+with+me+💖" /> -->
 </div>
+
+<div align="center">
+
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<div align='center'>
+
+[![](https://visitcount.itsvg.in/api?id=ElazzouziHassan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
+</p>
+
