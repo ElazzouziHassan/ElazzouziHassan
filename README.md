@@ -1,9 +1,9 @@
-<!-- # `Elazzouzi Hassan (Wizardy - 🧙‍♂️) ` -->
+# `Elazzouzi Hassan (Wizardy - 🧙‍♂️) `
 
-<!-- Hey there, Welcome to my GitHub Profile 👋  -->
+Hey there, Welcome to my GitHub Profile 👋 
 
-<!-- **Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨ -->
-<!-- <h2 align="left">💡 TECHNOLOGIES I HARNESS </h2>
+**Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
+<h2 align="left">💡 TECHNOLOGIES I HARNESS </h2>
 
 <div>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white">
@@ -50,24 +50,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green" height='120' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="languages graph"  />
-</div> -->
-<!-- 
+</div>
+
 <h2 align="left">⚡ACTIVITY GRAPH </h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/> -->
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/>
 
-<!-- --- -->
+---
 
-<!-- <p align="center">
+<p align="center">
 🌐 SOCIAL NETWORKS
 </p>
-<div align='center'> -->
+<div align='center'>
 
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmewizardy) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmewizardy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealwizardy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elazzouzihassan) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy)   -->
-<!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Feel+free+to+connect+with+me+💖" /> -->
-<!-- </div> -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy)
+<!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Feel+free+to+connect+with+me+💖" />-->
+
+</div>
 
 <!-- <div align="center"> -->
 
