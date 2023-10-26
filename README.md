@@ -46,11 +46,11 @@ Hey there, Welcome to my GitHub Profile 👋
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align='center'>
+<!-- <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green" height='120' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="languages graph"  />
-</div>
+</div> -->
 
 <h2 align="left">⚡ACTIVITY GRAPH </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/>
