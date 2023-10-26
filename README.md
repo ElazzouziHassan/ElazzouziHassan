@@ -55,7 +55,7 @@ Hey there, Welcome to my GitHub Profile 👋
 <h2 align="left">⚡ACTIVITY GRAPH </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/> -->
 
----
+<!-- --- -->
 
 <p align="center">
 🌐 SOCIAL NETWORKS
