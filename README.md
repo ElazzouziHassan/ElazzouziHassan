@@ -1,7 +1,11 @@
 # `Elazzouzi Hassan (Wizardy - 🧙‍♂️) ` 
 
+**Full-Stack Web Developer**, 
+
 Hey there, Welcome to my GitHub Profile 👋 
-**Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
+
+*All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
+
 <h2 align="left">💡 TECHNOLOGIES I HARNESS </h2>
 <div>
 
