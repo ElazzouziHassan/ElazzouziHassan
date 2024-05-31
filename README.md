@@ -1,4 +1,4 @@
-# `Elazzouzi Hassan (Wizardy - 🧙‍♂️) `
+# `Elazzouzi Hassan (Wizardy - 🧙‍♂️) ` 
 
 Hey there, Welcome to my GitHub Profile 👋 
 
@@ -46,27 +46,15 @@ Hey there, Welcome to my GitHub Profile 👋
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green" height='120' />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="languages graph"  />
-</div> -->
-<!-- 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green" height='125' />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
+</div>
 <h2 align="left">⚡ACTIVITY GRAPH </h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/> -->
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/> 
 
-<!-- --- -->
 
-<!-- <p align="center">
-🌐 SOCIAL NETWORKS
-</p>
-< align='center'>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmewizardy) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealwizardy) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elazzouzihassan) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy) -->
-<!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Feel+free+to+connect+with+me+💖" />-->
 
 **🌐 SOCIAL NETWORKS** :
 
@@ -74,34 +62,4 @@ Hey there, Welcome to my GitHub Profile 👋
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealwizardy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elazzouzihassan) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy)
-
-<!-- <div align="center"> -->
-
-<!-- <div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
-</div> -->
-
-  
-
+![GitHub followers](https://img.shields.io/github/followers/ElazzouziHassan)
