@@ -1,10 +1,8 @@
 # `Elazzouzi Hassan (Wizardy - 🧙‍♂️) ` 
 
 Hey there, Welcome to my GitHub Profile 👋 
-
 **Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
 <h2 align="left">💡 TECHNOLOGIES I HARNESS </h2>
-
 <div>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54">
@@ -63,3 +61,6 @@ Hey there, Welcome to my GitHub Profile 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elazzouzihassan) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy)
 ![GitHub followers](https://img.shields.io/github/followers/ElazzouziHassan)
+
+---
+![GitHub followers](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
