@@ -81,3 +81,4 @@ Welcome to my GitHub Profile 👋
 ---
 [![Wizardy - The Coding Wizard](https://img.shields.io/static/v1?label=Wizardy&message=The+Coding+Wizard&color=7469B6&logo=Wizardy&logoColor=240750)](https://github.com/ElazzouziHassan)
 ![MC - The Matrix Club](https://img.shields.io/badge/MC-The_Matrix_Club-7469B6?logo=Wizardy&logoColor=240750)
+[![Elazzouzi Hassan - (Wizardy - 🧙‍♂️) ](https://img.shields.io/badge/Elazzouzi_Hassan-(Wizardy_--_🧙‍♂️)_-7469B6)](https://)
