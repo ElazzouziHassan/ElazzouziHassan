@@ -79,4 +79,5 @@ Welcome to my GitHub Profile 👋
 ![GitHub followers](https://img.shields.io/github/followers/ElazzouziHassan)
 
 ---
-![MATRIX](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
+[![Wizardy - The Coding Wizard](https://img.shields.io/static/v1?label=Wizardy&message=The+Coding+Wizard&color=7469B6&logo=Wizardy&logoColor=240750)](https://github.com/ElazzouziHassan)
+![MC - The Matrix Club](https://img.shields.io/badge/MC-The_Matrix_Club-7469B6?logo=Wizardy&logoColor=240750)
