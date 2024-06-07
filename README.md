@@ -1,11 +1,10 @@
 # `Elazzouzi Hassan (Wizardy - 🧙‍♂️) ` 
 
-**Full-Stack Web Developer**, 
+Hey there, 
 
-Hey there, Welcome to my GitHub Profile 👋 
+Welcome to my GitHub Profile 👋 
 
-*All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
-
+**Full-Stack Web Developer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
 <h2 align="left">💡 TECHNOLOGIES I HARNESS </h2>
 <div>
 
@@ -61,13 +60,13 @@ Hey there, Welcome to my GitHub Profile 👋
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div>
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green" height='125' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
-</div>
-<h2 align="left">⚡ACTIVITY GRAPH </h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/> 
+</div> -->
+<!-- <h2 align="left">⚡ACTIVITY GRAPH </h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/>  -->
 
 
 
