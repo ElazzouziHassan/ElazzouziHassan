@@ -1,0 +1,98 @@
+# `Elazzouzi Hassan (Wizardy - 🧙‍♂️) ` 
+
+Hey there, 
+
+Welcome to my GitHub Profile 👋 
+
+**Software Engineer**, *All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code*. 👨‍💻✨
+
+**NOTE**: *All my works are included with custom LICENSE, Please read it carefully before the usage of any repository content.*
+<h2 align="left">💡 TECHNOLOGIES I HARNESS </h2>
+<div>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) 
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) 
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=plastic&logo=flask&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) 
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
+![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=plastic&logo=neovim&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-%23E61E24.svg?style=plastic&logo=linux&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white) 
+![Linux Server](https://img.shields.io/badge/Linux%20Server-Management-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) 
+![MVC](https://img.shields.io/badge/MVC-Architecture-%23000000.svg?style=plastic&logo=framework&logoColor=white)
+
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElazzouziHassan&theme=blue-green" height='125' />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElazzouziHassan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="languages graph"  />
+</div> -->
+<!-- <h2 align="left">⚡ACTIVITY GRAPH </h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ElazzouziHassan&theme=high-contrast"/>  -->
+
+
+
+**🌐 SOCIAL NETWORKS** :
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmewizardy) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealwizardy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elazzouzihassan) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmewizardy)
+![GitHub followers](https://img.shields.io/github/followers/ElazzouziHassan)
+
+---
+[![Wizardy - The Coding Wizard](https://img.shields.io/static/v1?label=Wizardy&message=The+Coding+Wizard&color=7469B6&logo=Wizardy&logoColor=240750)](https://github.com/ElazzouziHassan)
+![MC - The Matrix Club](https://img.shields.io/badge/MC-The_Matrix_Club-7469B6?logo=Wizardy&logoColor=240750)
+[![Elazzouzi Hassan - (Wizardy - 🧙‍♂️) ](https://img.shields.io/badge/Elazzouzi_Hassan-(Wizardy_--_🧙‍♂️)_-7469B6)](https://wizardy.vercel.app/)
