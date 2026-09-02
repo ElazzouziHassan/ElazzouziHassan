@@ -6,7 +6,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElazzouziHassan/ElazzouziHassan/main/light.svg">
   <img alt="Wizardy" src="https://raw.githubusercontent.com/ElazzouziHassan/ElazzouziHassan/main/light.svg">
 </picture>
-
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
@@ -43,31 +44,22 @@
 
 </div>
 
-<!-- ===== END SNAKE ===== -->
-
-
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/elazzouzihassan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elazzouzihassan)
+&nbsp;&nbsp;
+<img alt="MC - The Matrix Club" src="https://img.shields.io/badge/MC-The_Matrix_Club-7469B6?logo=Wizardy&logoColor=240750">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/therealwizardy/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-</a>
+<a href="https://github.com/ElazzouziHassan"><img alt="Wizardy - The Coding Wizard" src="https://img.shields.io/static/v1?label=Wizardy&message=The+Coding+Wizard&color=7469B6&logo=Wizardy&logoColor=240750"></a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/Uk.azzouzi.mario/">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
-</a>
+<a href="https://wizardy.vercel.app/"><img alt="Elazzouzi Hassan" src="https://img.shields.io/badge/Elazzouzi_Hassan-(Wizardy_--_🧙‍♂️)_-7469B6"></a>
 &nbsp;&nbsp;
-<a href="mailto:ezhassan.info@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
+
+<sub>Building things that are meant to last, not just to ship.</sub>
 </div>
 
-<!-- ===== END SOCIAL BADGES ===== -->
-
-<!-- =================================== -->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
